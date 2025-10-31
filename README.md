@@ -13,6 +13,7 @@ Real-time executive dashboard tracking **campaign performance, audience behavior
 | Highest ROI Campaign | **Universal Responsive Migration** (620,421%) |
 | Top Segment | **Recent Signups** ($12.27M) |
 | Best Platform | **Sendgrid** ($14M) |
+**Certain figures reflect realistic scenarios, while others are intentionally exaggerated due to the use of synthetic data.**
 
 ---
 
