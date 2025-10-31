@@ -1,0 +1,251 @@
+Audience_ID,Segment_Name,List_Size,Demographics,Acquisition_Source
+AUD0001,Abandoned Carts,17868,"{'age': 60, 'region': 'Hong Kong', 'gender': 'F'}",Events
+AUD0002,Loyal Customers,8434,"{'age': 38, 'region': 'Trinidad and Tobago', 'gender': 'F'}",Partner
+AUD0003,Loyal Customers,86819,"{'age': 62, 'region': 'Guinea', 'gender': 'F'}",Referrals
+AUD0004,Abandoned Carts,18774,"{'age': 53, 'region': 'Indonesia', 'gender': 'M'}",Partner
+AUD0005,Dormant Users,134982,"{'age': 30, 'region': 'Belgium', 'gender': 'F'}",Events
+AUD0006,Recent Signups,62591,"{'age': 60, 'region': 'Greenland', 'gender': 'F'}",Referrals
+AUD0007,Recent Signups,73201,"{'age': 61, 'region': ""Cote d'Ivoire"", 'gender': 'Other'}",Social Media
+AUD0008,Recent Signups,127448,"{'age': 29, 'region': 'Croatia', 'gender': 'Other'}",Social Media
+AUD0009,Abandoned Carts,56360,"{'age': 54, 'region': 'Netherlands Antilles', 'gender': 'F'}",Events
+AUD0010,Loyal Customers,141556,"{'age': 43, 'region': 'Vietnam', 'gender': 'Other'}",Events
+AUD0011,Abandoned Carts,34884,"{'age': 18, 'region': 'Russian Federation', 'gender': 'F'}",Organic
+AUD0012,Abandoned Carts,149895,"{'age': 36, 'region': 'Jersey', 'gender': 'M'}",Social Media
+AUD0013,Seasonal Buyers,124107,"{'age': 45, 'region': 'Saint Martin', 'gender': 'Other'}",Organic
+AUD0014,Loyal Customers,63900,"{'age': 56, 'region': 'Luxembourg', 'gender': 'Other'}",Events
+AUD0015,Seasonal Buyers,124187,"{'age': 38, 'region': 'Aruba', 'gender': 'F'}",Partner
+AUD0016,High Spenders,106908,"{'age': 46, 'region': 'Barbados', 'gender': 'F'}",Referrals
+AUD0017,Loyal Customers,50114,"{'age': 61, 'region': 'Algeria', 'gender': 'M'}",Social Media
+AUD0018,Loyal Customers,24926,"{'age': 50, 'region': 'Moldova', 'gender': 'F'}",Referrals
+AUD0019,Loyal Customers,25609,"{'age': 65, 'region': 'Cyprus', 'gender': 'M'}",Organic
+AUD0020,Recent Signups,113197,"{'age': 60, 'region': 'Latvia', 'gender': 'M'}",Organic
+AUD0021,Recent Signups,93076,"{'age': 36, 'region': 'Sri Lanka', 'gender': 'Other'}",Paid Ads
+AUD0022,Seasonal Buyers,111238,"{'age': 60, 'region': 'Ireland', 'gender': 'Other'}",Partner
+AUD0023,Seasonal Buyers,107967,"{'age': 57, 'region': 'Kyrgyz Republic', 'gender': 'F'}",Social Media
+AUD0024,Loyal Customers,122627,"{'age': 23, 'region': 'Bulgaria', 'gender': 'M'}",Social Media
+AUD0025,Seasonal Buyers,14400,"{'age': 61, 'region': 'Panama', 'gender': 'F'}",Organic
+AUD0026,Recent Signups,25999,"{'age': 32, 'region': 'Micronesia', 'gender': 'M'}",Partner
+AUD0027,Abandoned Carts,16089,"{'age': 27, 'region': 'Mali', 'gender': 'M'}",Referrals
+AUD0028,Abandoned Carts,105744,"{'age': 20, 'region': 'Nepal', 'gender': 'M'}",Social Media
+AUD0029,Abandoned Carts,89146,"{'age': 48, 'region': 'El Salvador', 'gender': 'Other'}",Organic
+AUD0030,Seasonal Buyers,28844,"{'age': 22, 'region': 'Peru', 'gender': 'F'}",Paid Ads
+AUD0031,High Spenders,65383,"{'age': 44, 'region': 'Comoros', 'gender': 'Other'}",Events
+AUD0032,Recent Signups,50424,"{'age': 54, 'region': ""Lao People's Democratic Republic"", 'gender': 'M'}",Social Media
+AUD0033,High Spenders,50062,"{'age': 63, 'region': 'Dominican Republic', 'gender': 'Other'}",Partner
+AUD0034,Seasonal Buyers,140784,"{'age': 42, 'region': 'Armenia', 'gender': 'F'}",Events
+AUD0035,Dormant Users,117801,"{'age': 43, 'region': 'Papua New Guinea', 'gender': 'M'}",Referrals
+AUD0036,Loyal Customers,36947,"{'age': 27, 'region': 'Holy See (Vatican City State)', 'gender': 'Other'}",Paid Ads
+AUD0037,Recent Signups,110793,"{'age': 62, 'region': 'Guam', 'gender': 'M'}",Social Media
+AUD0038,Abandoned Carts,48300,"{'age': 24, 'region': 'El Salvador', 'gender': 'F'}",Events
+AUD0039,High Spenders,73218,"{'age': 32, 'region': 'Faroe Islands', 'gender': 'M'}",Partner
+AUD0040,Dormant Users,121475,"{'age': 62, 'region': 'Turkmenistan', 'gender': 'Other'}",Events
+AUD0041,Dormant Users,65685,"{'age': 47, 'region': 'Palau', 'gender': 'M'}",Organic
+AUD0042,Recent Signups,19961,"{'age': 53, 'region': 'Malawi', 'gender': 'M'}",Events
+AUD0043,Recent Signups,116364,"{'age': 25, 'region': 'Portugal', 'gender': 'F'}",Referrals
+AUD0044,Dormant Users,144464,"{'age': 26, 'region': 'Australia', 'gender': 'F'}",Events
+AUD0045,Loyal Customers,25866,"{'age': 60, 'region': 'Russian Federation', 'gender': 'Other'}",Referrals
+AUD0046,Loyal Customers,13461,"{'age': 53, 'region': 'Armenia', 'gender': 'Other'}",Referrals
+AUD0047,High Spenders,141911,"{'age': 38, 'region': 'Chad', 'gender': 'F'}",Partner
+AUD0048,Loyal Customers,4068,"{'age': 57, 'region': 'Tokelau', 'gender': 'Other'}",Organic
+AUD0049,Dormant Users,24648,"{'age': 50, 'region': 'Mexico', 'gender': 'F'}",Paid Ads
+AUD0050,Dormant Users,62165,"{'age': 53, 'region': 'Belize', 'gender': 'F'}",Referrals
+AUD0051,Seasonal Buyers,43797,"{'age': 28, 'region': 'Martinique', 'gender': 'Other'}",Events
+AUD0052,Dormant Users,106739,"{'age': 48, 'region': 'Mexico', 'gender': 'F'}",Partner
+AUD0053,Loyal Customers,127507,"{'age': 34, 'region': 'Kuwait', 'gender': 'M'}",Events
+AUD0054,Abandoned Carts,126385,"{'age': 58, 'region': ""Lao People's Democratic Republic"", 'gender': 'F'}",Referrals
+AUD0055,High Spenders,56232,"{'age': 51, 'region': 'Turkmenistan', 'gender': 'F'}",Partner
+AUD0056,Seasonal Buyers,105330,"{'age': 58, 'region': 'Norway', 'gender': 'M'}",Events
+AUD0057,Loyal Customers,15570,"{'age': 35, 'region': 'Norway', 'gender': 'F'}",Social Media
+AUD0058,High Spenders,43358,"{'age': 22, 'region': 'Jersey', 'gender': 'Other'}",Organic
+AUD0059,Loyal Customers,99545,"{'age': 36, 'region': 'Oman', 'gender': 'M'}",Events
+AUD0060,Seasonal Buyers,765,"{'age': 35, 'region': 'Niger', 'gender': 'F'}",Organic
+AUD0061,Dormant Users,102546,"{'age': 38, 'region': 'Nigeria', 'gender': 'Other'}",Referrals
+AUD0062,Abandoned Carts,69721,"{'age': 23, 'region': 'Lesotho', 'gender': 'M'}",Referrals
+AUD0063,Seasonal Buyers,119477,"{'age': 27, 'region': 'Botswana', 'gender': 'M'}",Referrals
+AUD0064,Dormant Users,74976,"{'age': 42, 'region': 'Syrian Arab Republic', 'gender': 'Other'}",Organic
+AUD0065,Seasonal Buyers,111088,"{'age': 27, 'region': 'India', 'gender': 'Other'}",Events
+AUD0066,Recent Signups,145891,"{'age': 31, 'region': 'Norfolk Island', 'gender': 'M'}",Social Media
+AUD0067,Abandoned Carts,127777,"{'age': 44, 'region': 'Germany', 'gender': 'F'}",Organic
+AUD0068,Loyal Customers,40779,"{'age': 39, 'region': 'Gambia', 'gender': 'Other'}",Partner
+AUD0069,Loyal Customers,49980,"{'age': 47, 'region': 'Senegal', 'gender': 'F'}",Social Media
+AUD0070,Abandoned Carts,77980,"{'age': 21, 'region': 'Mozambique', 'gender': 'M'}",Events
+AUD0071,Recent Signups,57268,"{'age': 44, 'region': 'Cocos (Keeling) Islands', 'gender': 'F'}",Events
+AUD0072,Dormant Users,15531,"{'age': 55, 'region': 'Armenia', 'gender': 'Other'}",Organic
+AUD0073,Loyal Customers,142333,"{'age': 19, 'region': 'United States Minor Outlying Islands', 'gender': 'Other'}",Paid Ads
+AUD0074,Recent Signups,16179,"{'age': 42, 'region': 'Montenegro', 'gender': 'F'}",Social Media
+AUD0075,Loyal Customers,82409,"{'age': 18, 'region': 'Benin', 'gender': 'F'}",Referrals
+AUD0076,High Spenders,15185,"{'age': 37, 'region': 'Japan', 'gender': 'F'}",Social Media
+AUD0077,Dormant Users,13344,"{'age': 44, 'region': 'Somalia', 'gender': 'Other'}",Events
+AUD0078,High Spenders,125187,"{'age': 65, 'region': 'Chile', 'gender': 'Other'}",Partner
+AUD0079,Abandoned Carts,132019,"{'age': 52, 'region': 'Colombia', 'gender': 'Other'}",Events
+AUD0080,Dormant Users,139431,"{'age': 32, 'region': 'Bosnia and Herzegovina', 'gender': 'F'}",Organic
+AUD0081,Recent Signups,41470,"{'age': 32, 'region': 'Guernsey', 'gender': 'F'}",Paid Ads
+AUD0082,Dormant Users,15110,"{'age': 45, 'region': 'Korea', 'gender': 'F'}",Referrals
+AUD0083,Dormant Users,133324,"{'age': 19, 'region': 'Saint Kitts and Nevis', 'gender': 'F'}",Social Media
+AUD0084,Recent Signups,21200,"{'age': 39, 'region': 'Bulgaria', 'gender': 'Other'}",Paid Ads
+AUD0085,Abandoned Carts,48912,"{'age': 61, 'region': 'Palestinian Territory', 'gender': 'F'}",Referrals
+AUD0086,Dormant Users,18162,"{'age': 64, 'region': 'Dominica', 'gender': 'M'}",Events
+AUD0087,Abandoned Carts,18015,"{'age': 47, 'region': 'Hong Kong', 'gender': 'M'}",Partner
+AUD0088,Abandoned Carts,61857,"{'age': 57, 'region': 'Sierra Leone', 'gender': 'Other'}",Events
+AUD0089,Abandoned Carts,106047,"{'age': 19, 'region': 'United States of America', 'gender': 'F'}",Organic
+AUD0090,Loyal Customers,31627,"{'age': 55, 'region': 'Korea', 'gender': 'Other'}",Organic
+AUD0091,Seasonal Buyers,149536,"{'age': 60, 'region': 'Saint Vincent and the Grenadines', 'gender': 'M'}",Partner
+AUD0092,Abandoned Carts,64743,"{'age': 23, 'region': 'Dominican Republic', 'gender': 'Other'}",Social Media
+AUD0093,Recent Signups,10618,"{'age': 45, 'region': 'Australia', 'gender': 'M'}",Paid Ads
+AUD0094,Seasonal Buyers,21691,"{'age': 47, 'region': 'Venezuela', 'gender': 'M'}",Partner
+AUD0095,Abandoned Carts,110097,"{'age': 21, 'region': 'Paraguay', 'gender': 'F'}",Paid Ads
+AUD0096,Recent Signups,148370,"{'age': 42, 'region': 'Philippines', 'gender': 'F'}",Referrals
+AUD0097,Recent Signups,137244,"{'age': 31, 'region': 'Ethiopia', 'gender': 'F'}",Social Media
+AUD0098,High Spenders,83134,"{'age': 38, 'region': 'Costa Rica', 'gender': 'F'}",Organic
+AUD0099,High Spenders,68558,"{'age': 42, 'region': ""Cote d'Ivoire"", 'gender': 'F'}",Social Media
+AUD0100,Dormant Users,53745,"{'age': 44, 'region': 'Bouvet Island (Bouvetoya)', 'gender': 'F'}",Events
+AUD0101,Abandoned Carts,82561,"{'age': 23, 'region': 'Malawi', 'gender': 'F'}",Organic
+AUD0102,Abandoned Carts,62770,"{'age': 19, 'region': ""Lao People's Democratic Republic"", 'gender': 'Other'}",Paid Ads
+AUD0103,Seasonal Buyers,69829,"{'age': 52, 'region': 'Burkina Faso', 'gender': 'M'}",Organic
+AUD0104,Recent Signups,103952,"{'age': 40, 'region': 'Lithuania', 'gender': 'M'}",Events
+AUD0105,Abandoned Carts,34508,"{'age': 59, 'region': 'United States Virgin Islands', 'gender': 'M'}",Organic
+AUD0106,Dormant Users,78842,"{'age': 59, 'region': 'Netherlands Antilles', 'gender': 'M'}",Partner
+AUD0107,Loyal Customers,120058,"{'age': 19, 'region': 'Grenada', 'gender': 'M'}",Paid Ads
+AUD0108,Recent Signups,83083,"{'age': 30, 'region': 'Reunion', 'gender': 'M'}",Events
+AUD0109,Loyal Customers,19216,"{'age': 57, 'region': 'Georgia', 'gender': 'M'}",Partner
+AUD0110,Dormant Users,2641,"{'age': 33, 'region': 'San Marino', 'gender': 'M'}",Referrals
+AUD0111,High Spenders,120336,"{'age': 48, 'region': 'Colombia', 'gender': 'Other'}",Social Media
+AUD0112,Dormant Users,147785,"{'age': 25, 'region': 'Afghanistan', 'gender': 'Other'}",Partner
+AUD0113,Loyal Customers,26409,"{'age': 31, 'region': 'Ukraine', 'gender': 'F'}",Referrals
+AUD0114,Recent Signups,19404,"{'age': 62, 'region': 'Tokelau', 'gender': 'F'}",Events
+AUD0115,Seasonal Buyers,141137,"{'age': 41, 'region': 'Saint Barthelemy', 'gender': 'M'}",Events
+AUD0116,Abandoned Carts,56077,"{'age': 56, 'region': 'Libyan Arab Jamahiriya', 'gender': 'Other'}",Events
+AUD0117,Dormant Users,132814,"{'age': 65, 'region': 'Falkland Islands (Malvinas)', 'gender': 'Other'}",Paid Ads
+AUD0118,Recent Signups,69720,"{'age': 25, 'region': 'Slovakia (Slovak Republic)', 'gender': 'M'}",Events
+AUD0119,Abandoned Carts,34922,"{'age': 37, 'region': 'Brunei Darussalam', 'gender': 'M'}",Social Media
+AUD0120,High Spenders,91690,"{'age': 55, 'region': 'Solomon Islands', 'gender': 'M'}",Paid Ads
+AUD0121,High Spenders,18233,"{'age': 37, 'region': 'Monaco', 'gender': 'Other'}",Events
+AUD0122,Abandoned Carts,64237,"{'age': 61, 'region': 'British Indian Ocean Territory (Chagos Archipelago)', 'gender': 'F'}",Paid Ads
+AUD0123,High Spenders,97069,"{'age': 43, 'region': 'Honduras', 'gender': 'Other'}",Social Media
+AUD0124,Recent Signups,74907,"{'age': 30, 'region': 'Chad', 'gender': 'M'}",Social Media
+AUD0125,Dormant Users,41552,"{'age': 55, 'region': 'Libyan Arab Jamahiriya', 'gender': 'Other'}",Partner
+AUD0126,Recent Signups,115067,"{'age': 58, 'region': 'Dominica', 'gender': 'M'}",Paid Ads
+AUD0127,Recent Signups,142601,"{'age': 24, 'region': 'Saint Vincent and the Grenadines', 'gender': 'Other'}",Organic
+AUD0128,Abandoned Carts,79503,"{'age': 37, 'region': 'Argentina', 'gender': 'Other'}",Referrals
+AUD0129,Seasonal Buyers,138858,"{'age': 56, 'region': 'Micronesia', 'gender': 'M'}",Events
+AUD0130,Seasonal Buyers,2250,"{'age': 54, 'region': 'San Marino', 'gender': 'M'}",Referrals
+AUD0131,Dormant Users,145585,"{'age': 40, 'region': 'Slovakia (Slovak Republic)', 'gender': 'Other'}",Social Media
+AUD0132,Abandoned Carts,78680,"{'age': 45, 'region': 'Niger', 'gender': 'Other'}",Referrals
+AUD0133,Seasonal Buyers,27354,"{'age': 41, 'region': 'Zimbabwe', 'gender': 'M'}",Organic
+AUD0134,High Spenders,35403,"{'age': 50, 'region': 'Trinidad and Tobago', 'gender': 'Other'}",Referrals
+AUD0135,Seasonal Buyers,69528,"{'age': 39, 'region': 'Kuwait', 'gender': 'M'}",Partner
+AUD0136,High Spenders,30458,"{'age': 44, 'region': 'Georgia', 'gender': 'F'}",Referrals
+AUD0137,Dormant Users,28258,"{'age': 24, 'region': 'Guernsey', 'gender': 'F'}",Social Media
+AUD0138,Recent Signups,145224,"{'age': 41, 'region': 'Suriname', 'gender': 'Other'}",Social Media
+AUD0139,Recent Signups,40949,"{'age': 47, 'region': 'Brazil', 'gender': 'Other'}",Partner
+AUD0140,Seasonal Buyers,71594,"{'age': 27, 'region': 'Fiji', 'gender': 'F'}",Events
+AUD0141,High Spenders,74060,"{'age': 29, 'region': 'Sierra Leone', 'gender': 'Other'}",Paid Ads
+AUD0142,Loyal Customers,55415,"{'age': 51, 'region': 'Brunei Darussalam', 'gender': 'Other'}",Events
+AUD0143,Loyal Customers,90084,"{'age': 35, 'region': 'Suriname', 'gender': 'Other'}",Social Media
+AUD0144,Loyal Customers,53571,"{'age': 52, 'region': 'Australia', 'gender': 'F'}",Events
+AUD0145,Recent Signups,69401,"{'age': 47, 'region': 'Finland', 'gender': 'F'}",Referrals
+AUD0146,Abandoned Carts,132689,"{'age': 64, 'region': 'Sweden', 'gender': 'Other'}",Referrals
+AUD0147,Recent Signups,128265,"{'age': 35, 'region': 'French Guiana', 'gender': 'F'}",Social Media
+AUD0148,Abandoned Carts,66029,"{'age': 33, 'region': 'Dominican Republic', 'gender': 'M'}",Social Media
+AUD0149,High Spenders,13516,"{'age': 35, 'region': 'Timor-Leste', 'gender': 'F'}",Events
+AUD0150,Seasonal Buyers,24395,"{'age': 33, 'region': 'United States Virgin Islands', 'gender': 'F'}",Events
+AUD0151,Loyal Customers,111237,"{'age': 54, 'region': 'Honduras', 'gender': 'Other'}",Referrals
+AUD0152,High Spenders,72730,"{'age': 60, 'region': 'Reunion', 'gender': 'F'}",Paid Ads
+AUD0153,High Spenders,11757,"{'age': 39, 'region': 'Armenia', 'gender': 'M'}",Partner
+AUD0154,Seasonal Buyers,1129,"{'age': 49, 'region': 'Bahrain', 'gender': 'F'}",Paid Ads
+AUD0155,High Spenders,87639,"{'age': 29, 'region': 'Belgium', 'gender': 'F'}",Social Media
+AUD0156,Seasonal Buyers,34493,"{'age': 31, 'region': 'Martinique', 'gender': 'F'}",Events
+AUD0157,Dormant Users,68870,"{'age': 34, 'region': 'United Kingdom', 'gender': 'F'}",Paid Ads
+AUD0158,Seasonal Buyers,42557,"{'age': 35, 'region': 'Thailand', 'gender': 'Other'}",Events
+AUD0159,Loyal Customers,116024,"{'age': 62, 'region': 'Barbados', 'gender': 'F'}",Organic
+AUD0160,Abandoned Carts,144819,"{'age': 53, 'region': 'Cyprus', 'gender': 'M'}",Referrals
+AUD0161,Abandoned Carts,112315,"{'age': 51, 'region': 'Paraguay', 'gender': 'M'}",Partner
+AUD0162,Loyal Customers,147238,"{'age': 23, 'region': 'Norway', 'gender': 'M'}",Events
+AUD0163,Abandoned Carts,2734,"{'age': 64, 'region': 'Finland', 'gender': 'F'}",Partner
+AUD0164,Seasonal Buyers,29527,"{'age': 49, 'region': 'Bosnia and Herzegovina', 'gender': 'Other'}",Events
+AUD0165,Dormant Users,19924,"{'age': 33, 'region': 'Honduras', 'gender': 'Other'}",Events
+AUD0166,Abandoned Carts,39273,"{'age': 48, 'region': 'Papua New Guinea', 'gender': 'Other'}",Partner
+AUD0167,Dormant Users,143223,"{'age': 63, 'region': 'Ecuador', 'gender': 'F'}",Partner
+AUD0168,Loyal Customers,9644,"{'age': 46, 'region': 'Malaysia', 'gender': 'M'}",Paid Ads
+AUD0169,Dormant Users,96987,"{'age': 23, 'region': 'Estonia', 'gender': 'F'}",Events
+AUD0170,High Spenders,145041,"{'age': 32, 'region': 'Papua New Guinea', 'gender': 'F'}",Organic
+AUD0171,Recent Signups,39021,"{'age': 62, 'region': 'Heard Island and McDonald Islands', 'gender': 'M'}",Paid Ads
+AUD0172,High Spenders,112866,"{'age': 37, 'region': 'Lebanon', 'gender': 'Other'}",Social Media
+AUD0173,Loyal Customers,33609,"{'age': 55, 'region': 'Italy', 'gender': 'F'}",Social Media
+AUD0174,Abandoned Carts,11165,"{'age': 48, 'region': 'Montserrat', 'gender': 'Other'}",Referrals
+AUD0175,Abandoned Carts,81008,"{'age': 51, 'region': 'Malawi', 'gender': 'F'}",Organic
+AUD0176,Dormant Users,95791,"{'age': 45, 'region': 'French Guiana', 'gender': 'Other'}",Events
+AUD0177,Seasonal Buyers,10658,"{'age': 53, 'region': 'Holy See (Vatican City State)', 'gender': 'F'}",Organic
+AUD0178,Recent Signups,93997,"{'age': 40, 'region': 'Morocco', 'gender': 'Other'}",Social Media
+AUD0179,Seasonal Buyers,55270,"{'age': 47, 'region': 'Niue', 'gender': 'F'}",Events
+AUD0180,Loyal Customers,65612,"{'age': 37, 'region': 'Cameroon', 'gender': 'F'}",Organic
+AUD0181,Abandoned Carts,27146,"{'age': 32, 'region': 'Wallis and Futuna', 'gender': 'M'}",Partner
+AUD0182,Dormant Users,92914,"{'age': 64, 'region': 'Benin', 'gender': 'M'}",Paid Ads
+AUD0183,Abandoned Carts,146970,"{'age': 38, 'region': 'Kenya', 'gender': 'M'}",Events
+AUD0184,Seasonal Buyers,106729,"{'age': 65, 'region': 'Libyan Arab Jamahiriya', 'gender': 'Other'}",Partner
+AUD0185,Seasonal Buyers,40715,"{'age': 62, 'region': 'Kazakhstan', 'gender': 'M'}",Paid Ads
+AUD0186,Recent Signups,62259,"{'age': 30, 'region': 'Bangladesh', 'gender': 'M'}",Organic
+AUD0187,Recent Signups,42798,"{'age': 65, 'region': 'Gabon', 'gender': 'F'}",Events
+AUD0188,Dormant Users,46613,"{'age': 35, 'region': 'Mozambique', 'gender': 'Other'}",Referrals
+AUD0189,Recent Signups,108280,"{'age': 55, 'region': 'Falkland Islands (Malvinas)', 'gender': 'Other'}",Referrals
+AUD0190,Seasonal Buyers,6697,"{'age': 56, 'region': 'Burkina Faso', 'gender': 'F'}",Social Media
+AUD0191,Seasonal Buyers,47218,"{'age': 24, 'region': 'Serbia', 'gender': 'M'}",Partner
+AUD0192,Loyal Customers,87280,"{'age': 36, 'region': 'Bahamas', 'gender': 'M'}",Events
+AUD0193,Seasonal Buyers,108128,"{'age': 41, 'region': 'Gibraltar', 'gender': 'M'}",Partner
+AUD0194,Dormant Users,65255,"{'age': 37, 'region': 'Martinique', 'gender': 'M'}",Organic
+AUD0195,High Spenders,70141,"{'age': 63, 'region': 'Marshall Islands', 'gender': 'Other'}",Referrals
+AUD0196,Loyal Customers,41932,"{'age': 26, 'region': 'Guyana', 'gender': 'F'}",Partner
+AUD0197,Loyal Customers,28536,"{'age': 20, 'region': 'Svalbard & Jan Mayen Islands', 'gender': 'M'}",Social Media
+AUD0198,Dormant Users,100481,"{'age': 53, 'region': 'British Indian Ocean Territory (Chagos Archipelago)', 'gender': 'F'}",Events
+AUD0199,Dormant Users,10351,"{'age': 62, 'region': 'Indonesia', 'gender': 'M'}",Referrals
+AUD0200,Recent Signups,123588,"{'age': 58, 'region': 'Nauru', 'gender': 'F'}",Partner
+AUD0201,Loyal Customers,58509,"{'age': 24, 'region': 'Pitcairn Islands', 'gender': 'M'}",Partner
+AUD0202,Recent Signups,52516,"{'age': 54, 'region': 'Andorra', 'gender': 'F'}",Events
+AUD0203,Seasonal Buyers,120865,"{'age': 48, 'region': 'Canada', 'gender': 'F'}",Social Media
+AUD0204,Loyal Customers,91860,"{'age': 46, 'region': 'Mongolia', 'gender': 'F'}",Organic
+AUD0205,Loyal Customers,80203,"{'age': 29, 'region': 'Nigeria', 'gender': 'M'}",Social Media
+AUD0206,Abandoned Carts,59862,"{'age': 34, 'region': 'Reunion', 'gender': 'F'}",Organic
+AUD0207,High Spenders,58638,"{'age': 25, 'region': 'Uganda', 'gender': 'M'}",Paid Ads
+AUD0208,Loyal Customers,6403,"{'age': 43, 'region': 'Turkey', 'gender': 'F'}",Partner
+AUD0209,Seasonal Buyers,50827,"{'age': 22, 'region': 'Kazakhstan', 'gender': 'Other'}",Partner
+AUD0210,Recent Signups,104655,"{'age': 58, 'region': 'Sao Tome and Principe', 'gender': 'Other'}",Referrals
+AUD0211,Recent Signups,86251,"{'age': 21, 'region': 'Uruguay', 'gender': 'M'}",Paid Ads
+AUD0212,Abandoned Carts,73234,"{'age': 27, 'region': 'Chile', 'gender': 'Other'}",Partner
+AUD0213,High Spenders,18398,"{'age': 37, 'region': 'Yemen', 'gender': 'M'}",Organic
+AUD0214,Seasonal Buyers,73370,"{'age': 33, 'region': 'Chad', 'gender': 'M'}",Events
+AUD0215,Recent Signups,92250,"{'age': 53, 'region': 'Rwanda', 'gender': 'F'}",Organic
+AUD0216,Dormant Users,133737,"{'age': 56, 'region': 'Tokelau', 'gender': 'Other'}",Partner
+AUD0217,Seasonal Buyers,104973,"{'age': 57, 'region': 'Belgium', 'gender': 'M'}",Partner
+AUD0218,Seasonal Buyers,140765,"{'age': 51, 'region': 'Indonesia', 'gender': 'F'}",Organic
+AUD0219,High Spenders,87008,"{'age': 46, 'region': 'Cameroon', 'gender': 'F'}",Events
+AUD0220,Recent Signups,7435,"{'age': 37, 'region': 'Saint Vincent and the Grenadines', 'gender': 'Other'}",Paid Ads
+AUD0221,Seasonal Buyers,30436,"{'age': 45, 'region': 'Botswana', 'gender': 'F'}",Partner
+AUD0222,Abandoned Carts,68675,"{'age': 54, 'region': 'Liberia', 'gender': 'Other'}",Referrals
+AUD0223,Abandoned Carts,47010,"{'age': 21, 'region': 'Ireland', 'gender': 'Other'}",Organic
+AUD0224,Recent Signups,69790,"{'age': 65, 'region': 'Romania', 'gender': 'M'}",Organic
+AUD0225,Abandoned Carts,10228,"{'age': 31, 'region': 'Paraguay', 'gender': 'Other'}",Referrals
+AUD0226,Dormant Users,28617,"{'age': 31, 'region': 'Malta', 'gender': 'F'}",Organic
+AUD0227,High Spenders,114118,"{'age': 60, 'region': 'Heard Island and McDonald Islands', 'gender': 'M'}",Referrals
+AUD0228,Abandoned Carts,90819,"{'age': 28, 'region': 'Nigeria', 'gender': 'M'}",Referrals
+AUD0229,Abandoned Carts,82428,"{'age': 29, 'region': 'Micronesia', 'gender': 'Other'}",Referrals
+AUD0230,Dormant Users,114598,"{'age': 22, 'region': 'Guinea-Bissau', 'gender': 'M'}",Events
+AUD0231,High Spenders,134266,"{'age': 18, 'region': 'Lithuania', 'gender': 'F'}",Paid Ads
+AUD0232,Seasonal Buyers,30515,"{'age': 46, 'region': 'Brunei Darussalam', 'gender': 'Other'}",Paid Ads
+AUD0233,High Spenders,101176,"{'age': 56, 'region': 'New Caledonia', 'gender': 'F'}",Social Media
+AUD0234,Loyal Customers,50028,"{'age': 36, 'region': 'Swaziland', 'gender': 'M'}",Events
+AUD0235,Recent Signups,66973,"{'age': 32, 'region': 'Isle of Man', 'gender': 'F'}",Social Media
+AUD0236,Recent Signups,11835,"{'age': 63, 'region': 'Albania', 'gender': 'F'}",Partner
+AUD0237,Loyal Customers,114509,"{'age': 62, 'region': 'Tajikistan', 'gender': 'F'}",Paid Ads
+AUD0238,Dormant Users,643,"{'age': 22, 'region': 'Macao', 'gender': 'Other'}",Paid Ads
+AUD0239,Loyal Customers,136493,"{'age': 32, 'region': 'Zambia', 'gender': 'F'}",Paid Ads
+AUD0240,Seasonal Buyers,141351,"{'age': 58, 'region': 'Cocos (Keeling) Islands', 'gender': 'Other'}",Organic
+AUD0241,Seasonal Buyers,51851,"{'age': 60, 'region': 'Saint Martin', 'gender': 'M'}",Social Media
+AUD0242,Recent Signups,95678,"{'age': 45, 'region': 'Burundi', 'gender': 'M'}",Events
+AUD0243,Seasonal Buyers,113262,"{'age': 52, 'region': 'Jersey', 'gender': 'M'}",Social Media
+AUD0244,Recent Signups,18543,"{'age': 59, 'region': 'Ethiopia', 'gender': 'M'}",Partner
+AUD0245,Loyal Customers,86759,"{'age': 35, 'region': 'Lesotho', 'gender': 'M'}",Paid Ads
+AUD0246,Loyal Customers,82491,"{'age': 22, 'region': 'Morocco', 'gender': 'M'}",Events
+AUD0247,Abandoned Carts,32869,"{'age': 28, 'region': 'Liberia', 'gender': 'F'}",Social Media
+AUD0248,Abandoned Carts,78927,"{'age': 56, 'region': 'Saint Vincent and the Grenadines', 'gender': 'Other'}",Paid Ads
+AUD0249,Loyal Customers,133139,"{'age': 54, 'region': 'Fiji', 'gender': 'F'}",Paid Ads
+AUD0250,Recent Signups,81277,"{'age': 46, 'region': 'Guinea-Bissau', 'gender': 'M'}",Events
