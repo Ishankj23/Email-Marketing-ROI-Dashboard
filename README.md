@@ -10,7 +10,7 @@ Real-time executive dashboard tracking **campaign performance, audience behavior
 | Metric | Value |
 |-------|--------|
 | Total Revenue Tracked | **$6,16,61,591** |
-| Highest ROI Campaign | **Multi Channeled Intermediate Migration** (12619.18%) |
+| Highest ROI Campaign | **Universal Responsive Migration** (620,421%) |
 | Top Segment | **Recent Signups** ($12.27M) |
 | Best Platform | **Sendgrid** ($14M) |
 
@@ -51,7 +51,7 @@ Real-time executive dashboard tracking **campaign performance, audience behavior
 ## 🔥 3 Insights I Delivered
 1. **45-54 age group** = 43% of revenue → prioritize content
 2. **Sendgrid** outperforms Mailchimp by **32%** in conversions
-3. **Multi Channeled Intermediate Migration** campaign → **12619.18% ROI** → scale budget
+3. **Universal Responsive Migration** campaign → **620.421% ROI** → scale budget
 
 ---
 
